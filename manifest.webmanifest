@@ -1,0 +1,14 @@
+{
+  "name": "大分県 救急搬送先選定支援",
+  "short_name": "搬送先選定",
+  "start_url": "./oita%20ems.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F7F7F4",
+  "theme_color": "#B3261E",
+  "lang": "ja",
+  "icons": [
+    { "src": "icon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
